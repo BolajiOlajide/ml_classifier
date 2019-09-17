@@ -1,3 +1,9 @@
+"""
+Iris flower data set
+
+https://en.wikipedia.org/wiki/Iris_flower_data_set
+"""
+
 from sklearn import tree
 from sklearn.datasets import load_iris
 
